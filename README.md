@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vasilis</h1>
-<h3 align="center">A passionate CS Student from Greece</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🔭 I’m currently working on **a Domain Specific Language (DSL) that defines and make operations in JSON**
+- 🔭 I’m currently working on **an Interactive Aquarium Project in an Ambient Intelligence environment**
 
-- 🌱 I’m currently learning **DBMS, Digital Image Processing, Probability, Software Engineering, Computer Networking**
+- 🌱 I’m currently learning **Algorithms & Complexity, Applied Stochastic Processes, Applied Statistics, Applied Mathematics for Engineers, Human Computer Interaction**
 
 - 🤝 I’m looking for help with **AI/Deep Learning concepts**
 
