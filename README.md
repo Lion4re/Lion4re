@@ -2,19 +2,15 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🔭 I’m currently working on **an Interactive Aquarium Project in an Ambient Intelligence environment**
+- 🔭 I’m currently working on **various Computer Vision Projects**
 
-- 🌱 I’m currently learning **Algorithms & Complexity, Applied Stochastic Processes, Applied Statistics, Applied Mathematics for Engineers, Human Computer Interaction**
-
-- 🤝 I’m looking for help with **AI/Deep Learning concepts**
-
-- 💬 Ask me about **hardware stuff**
-
-- 📫 How to reach me **lionarepublic@gmail.com**
+- 🌱 I’m currently learning **Algorithms & Complexity, Neural Networks, Computer Vision, Compilers & Languagues Architecture, Multivariable Calculus**
+- 
+- 📫 How to reach me **vpapageridis23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vasileios papageridis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasileios papageridis" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/vasileios papageridis](https://www.linkedin.com/in/vasileios-papageridis/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasileios papageridis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
