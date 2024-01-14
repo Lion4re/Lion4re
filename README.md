@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **various Computer Vision Projects**
 
 - 🌱 I’m currently learning **Algorithms & Complexity, Neural Networks, Computer Vision, Compilers & Languagues Architecture, Multivariable Calculus**
-- 
+
 - 📫 How to reach me **vpapageridis23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
