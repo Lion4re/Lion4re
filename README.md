@@ -2,9 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🔭 I’m currently working on **various Computer Vision Projects**
-
-- 🌱 I’m currently learning **Algorithms & Complexity, Neural Networks, Computer Vision, Compilers & Languagues Architecture, Multivariable Calculus**
+- 🔭 I’m currently pursuing my MSc in Advanced Telecommunication Technologies with specialization on Deep Learning at **Universitat Politécnica de Catalunya**
 
 - 📫 How to reach me **vpapageridis23@gmail.com**
 
